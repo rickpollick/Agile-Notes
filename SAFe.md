@@ -30,3 +30,8 @@ Chart of the 7 core competencies of the lean enterprise:
 Certification List:
 
 ![](https://user-images.githubusercontent.com/1808235/89190132-04fd0b80-d56f-11ea-9a24-f6baa4991040.jpg)
+
+> Key Areas of Focus for MyUPMC:
+
+1. Portfolio Managmnet - startign with implemention APMO(s)
+2. Hack-A-Thons
